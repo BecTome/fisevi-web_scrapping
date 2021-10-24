@@ -8,3 +8,4 @@ logging/*
 .venv/*
 
 lib/__pycache__/*
+lib/globals.py
