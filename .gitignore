@@ -1,0 +1,10 @@
+security/*
+!security/.gitkeep
+
+output/*
+
+logging/*
+
+.venv/*
+
+lib/__pycache__/*
